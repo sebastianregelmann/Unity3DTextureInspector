@@ -9,8 +9,3 @@ Just add this script to the assetes folder and it is ready to use.
 * Enable/Disable color channels
 * Slice the texture in XY-slices
 * Scale the texture 
-
-### Example
-
-![Example image]([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true](https://github.com/sebastianregelmann/Unity3DTextureInspector/blob/main/Example.png?raw=true))
-
